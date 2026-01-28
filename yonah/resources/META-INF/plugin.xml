@@ -10,7 +10,7 @@
     <category>UI</category>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor url="">inshinrei</vendor>
+    <vendor url="github">inshinrei</vendor>
 
     <idea-version since-build="252.25557"/>
 
