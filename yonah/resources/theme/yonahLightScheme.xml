@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <scheme name="yonah light" version="142" parent_scheme="Default">
-    <option name="FONT_SCALE" value="1.0"/>
-    <option name="LINE_SPACING" value="1.0"/>
-    <option name="EDITOR_FONT_SIZE" value="16"/>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono"/>
-    <option name="EDITOR_LIGATURES" value="false"/>
-    <option name="CONSOLE_FONT_NAME" value="JetBrains Mono"/>
-    <option name="CONSOLE_LIGATURES" value="false"/>
+    <option name="FONT_SCALE" value="1.0" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+
+    <option name="LINE_SPACING" value="1.0" />
+    <option name="EDITOR_LIGATURES" value="false" />
+    <option name="CONSOLE_LIGATURES" value="false" />
+    <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
+
+    <colors>
+        <option name="CARET_COLOR" value="1f2328" />
+        <option name="CARET_ROW_COLOR" value="f2f3f5" />
+        <option name="INDENT_GUIDE" value="d1d9e0" />
+        <option name="CONSOLE_BACKGROUND_KEY" value="fafbfc" />
+        <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" />
+        <option name="FOLDED_TEXT_BORDER_COLOR" value="e3e3e3" />
+        <option name="GUTTER_BACKGROUND" value="fafbfc" />
+        <option name="LINE_NUMBERS_COLOR" value="b3b3b3" />
+        <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="1f2328" />
+        <option name="SELECTED_TEARLINE_COLOR" value="cccccc" />
+        <option name="SELECTION_BACKGROUND" value="c0d8f0" />
+        <option name="SELECTION_FOREGROUND" />
+        <option name="TEARLINE_COLOR" value="e6e6e6" />
+        <option name="RIGHT_MARGIN_COLOR" value="d1d9e0" />
+        <option name="SOFT_WRAP_SIGN_COLOR" value="818b98" />
+        <option name="WHITESPACES" value="d1d9e0" />
+
+        <!-- Search -->
+        <option name="IDENTIFIER_UNDER_CARET_COLOR" value="ffd8b5" />
+        <option name="WRITE_IDENTIFIER_UNDER_CARET_COLOR" value="ffebe9" />
+        <option name="SEARCH_RESULT_ATTRIBUTES_BACKGROUND" value="fff8c5" />
+        <option name="TEXT_SEARCH_RESULT_ATTRIBUTES_BACKGROUND" value="fff8c5" />
+
+        <!-- VSC, Diff -->
+        <option name="DIFF_INSERTED" value="dafbe1" />
+        <option name="DIFF_DELETED" value="ffebe9" />
+        <option name="DIFF_MODIFIED" value="ddf4ff" />
+        <option name="DIFF_CONFLICT" value="ffd8b5" />
+
+        <!-- VCS -->
+        <option name="ADDED_LINES_COLOR" value="116329" />
+        <option name="DELETED_LINES_COLOR" value="cf222e" />
+        <option name="MODIFIED_LINES_COLOR" value="0550ae" />
+        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="953800" />
+
+        <!-- Breadcrumbs -->
+        <option name="BREADCRUMBS_CURRENT" value="E8E6E1" />
+        <option name="BREADCRUMBS_DEFAULT" value="F0EEE9" />
+        <option name="BREADCRUMBS_HOVERED" value="dafbe1" />
+        <option name="BREADCRUMBS_INACTIVE" value="F0EEE9" />
+
+        <!-- Documentation -->
+        <option name="DOCUMENTATION_COLOR" value="F0EEE9" />
+
+        <!-- Notification -->
+        <option name="NOTIFICATION_BACKGROUND" value="F0EEE9" />
+        <option name="INFORMATION_HINT" value="F0EEE9" />
+        <option name="QUESTION_HINT" value="ddf4ff" />
+        <option name="ERROR_HINT" value="ffebe9" />
+
+        <!-- Popups -->
+        <option name="LOOKUP_COLOR" value="F0EEE9" />
+        <option name="PROMOTION_PANE" value="ddf4ff" />
+
+        <!-- Visual Guides -->
+        <option name="VISUAL_INDENT_GUIDE" value="d1d9e0" />
+        <option name="MATCHED_BRACE_COLOR" value="dafbe1" />
+    </colors>
 </scheme>
