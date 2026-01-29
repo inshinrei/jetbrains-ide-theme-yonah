@@ -132,6 +132,13 @@
                 <option name="FOREGROUND" />
             </value>
         </option>
+        <option name="TODO_DEFAULT_ATTRIBUTES">
+            <value>
+                <option name="FOREGROUND" value="3e3e3e" />
+                <option name="FONT_TYPE" value="3" />
+                <option name="ERROR_STRIPE_COLOR" value="3e3e3e" />
+            </value>
+        </option>
 
         <!-- Keywords -->
         <option name="DEFAULT_KEYWORD">
@@ -396,5 +403,189 @@
                 <option name="ERROR_STRIPE_COLOR" value="3e3e3e" />
             </value>
         </option>
+
+        <!-- Matched Brace -->
+        <option name="MATCHED_BRACE_ATTRIBUTES">
+            <value>
+                <option name="BACKGROUND" value="dafbe1" />
+                <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="UNMATCHED_BRACE_ATTRIBUTES">
+            <value>
+                <option name="BACKGROUND" value="ffebe9" />
+                <option name="FONT_TYPE" value="1" />
+            </value>
+        </option>
+
+        <!-- Console -->
+        <option name="CONSOLE_BLACK_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="1f2328" />
+            </value>
+        </option>
+        <option name="CONSOLE_BLUE_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="0550ae" />
+            </value>
+        </option>
+        <option name="CONSOLE_CYAN_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="0a3069" />
+            </value>
+        </option>
+        <option name="CONSOLE_DARKGRAY_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="59636e" />
+            </value>
+        </option>
+        <option name="CONSOLE_GRAY_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="818b98" />
+            </value>
+        </option>
+        <option name="CONSOLE_GREEN_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="116329" />
+            </value>
+        </option>
+        <option name="CONSOLE_MAGENTA_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="8250df" />
+            </value>
+        </option>
+        <option name="CONSOLE_RED_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="cf222e" />
+            </value>
+        </option>
+        <option name="CONSOLE_WHITE_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="F0EEE9" />
+            </value>
+        </option>
+        <option name="CONSOLE_YELLOW_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="953800" />
+            </value>
+        </option>
+        <option name="CONSOLE_NORMAL_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="1f2328" />
+            </value>
+        </option>
+        <option name="CONSOLE_ERROR_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="cf222e" />
+            </value>
+        </option>
+        <option name="CONSOLE_SYSTEM_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="0550ae" />
+            </value>
+        </option>
+        <option name="CONSOLE_USER_INPUT">
+            <value>
+                <option name="FOREGROUND" value="116329" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+
+        <!-- Log Highlighting -->
+        <option name="LOG_DEBUG_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="59636e" />
+            </value>
+        </option>
+        <option name="LOG_ERROR_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="cf222e" />
+            </value>
+        </option>
+        <option name="LOG_INFO_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="0550ae" />
+            </value>
+        </option>
+        <option name="LOG_WARNING_OUTPUT">
+            <value>
+                <option name="FOREGROUND" value="953800" />
+            </value>
+        </option>
+        <option name="LOG_EXPIRED_ENTRY">
+            <value>
+                <option name="FOREGROUND" value="818b98" />
+            </value>
+        </option>
+
+        <!-- VCS Diff -->
+        <option name="DIFF_INSERTED">
+            <value>
+                <option name="BACKGROUND" value="dafbe1" />
+            </value>
+        </option>
+        <option name="DIFF_DELETED">
+            <value>
+                <option name="BACKGROUND" value="ffebe9" />
+            </value>
+        </option>
+        <option name="DIFF_MODIFIED">
+            <value>
+                <option name="BACKGROUND" value="ddf4ff" />
+            </value>
+        </option>
+        <option name="DIFF_CONFLICT">
+            <value>
+                <option name="BACKGROUND" value="ffd8b5" />
+            </value>
+        </option>
+
+        <!-- Inline Hints -->
+        <option name="INLINE_PARAMETER_HINT">
+            <value>
+                <option name="FOREGROUND" value="59636e" />
+                <option name="BACKGROUND" value="E8E6E1" />
+            </value>
+        </option>
+        <option name="INLINE_PARAMETER_HINT_CURRENT">
+            <value>
+                <option name="FOREGROUND" value="5b5b5b" />
+                <option name="BACKGROUND" value="e3e3e3" />
+            </value>
+        </option>
+        <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+            <value>
+                <option name="FOREGROUND" value="0550ae" />
+                <option name="BACKGROUND" value="ddf4ff" />
+            </value>
+        </option>
+
+        <!-- Breadcrumbs -->
+        <option name="BREADCRUMBS_DEFAULT">
+            <value>
+                <option name="FOREGROUND" value="59636e" />
+                <option name="BACKGROUND" value="F0EEE9" />
+            </value>
+        </option>
+        <option name="BREADCRUMBS_HOVERED">
+            <value>
+                <option name="FOREGROUND" value="1f2328" />
+                <option name="BACKGROUND" value="dafbe1" />
+            </value>
+        </option>
+        <option name="BREADCRUMBS_CURRENT">
+            <value>
+                <option name="FOREGROUND" value="1f2328" />
+                <option name="BACKGROUND" value="E8E6E1" />
+            </value>
+        </option>
+        <option name="BREADCRUMBS_INACTIVE">
+            <value>
+                <option name="FOREGROUND" value="818b98" />
+                <option name="BACKGROUND" value="F0EEE9" />
+            </value>
+        </option>
+
+        <!-- Uncategorized -->
     </attributes>
 </scheme>
