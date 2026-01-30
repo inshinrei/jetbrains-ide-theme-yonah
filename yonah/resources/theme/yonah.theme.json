@@ -5,12 +5,27 @@
     "editorScheme": "/theme/yonahLightScheme.xml",
 
     "colors": {
-        "bgm": "#ffffff"
+        "bgm": "#fafbfc",
+        "ac": "#265380"
     },
 
     "ui": {
         "*": {
             "background": "bgm"
+        },
+
+        "Borders.color": "bgm",
+
+        "Button": {
+            "default": {
+                "startBorderColor": "bgm",
+                "endBorderColor": "bgm",
+                "startBackground": "ac",
+                "endBackground": "ac",
+                "foreground": "#ffffff"
+            },
+            "startBorderColor": "bgm",
+            "endBorderColor": "bgm"
         }
     }
 }
