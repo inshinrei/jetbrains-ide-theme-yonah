@@ -193,11 +193,6 @@
         </option>
 
         <!-- Classes & Types -->
-        <option name="DEFAULT_CLASS_REFERENCE">
-            <value>
-                <option name="FOREGROUND" value="0550ae" />
-            </value>
-        </option>
         <option name="DEFAULT_INTERFACE_NAME">
             <value>
                 <option name="FONT_TYPE" value="2" />
@@ -26369,6 +26364,7 @@
         </option>
 
         <!-- Uncategorized -->
+        <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
         <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
             <value>
                 <option name="FONT_TYPE" value="3" />
