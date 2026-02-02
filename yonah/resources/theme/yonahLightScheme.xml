@@ -12,10 +12,10 @@
     <colors>
         <option name="CARET_ROW_COLOR" value="f2f3f5" />
         <option name="INDENT_GUIDE" value="d1d9e0" />
-        <option name="CONSOLE_BACKGROUND_KEY" value="e8e1d7" />
+        <option name="CONSOLE_BACKGROUND_KEY" value="EFEDEB" />
         <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" />
         <option name="FOLDED_TEXT_BORDER_COLOR" value="e3e3e3" />
-        <option name="GUTTER_BACKGROUND" value="e8e1d7" />
+        <option name="GUTTER_BACKGROUND" value="EFEDEB" />
         <option name="LINE_NUMBERS_COLOR" value="b3b3b3" />
         <option name="SELECTED_TEARLINE_COLOR" value="cccccc" />
         <option name="SELECTION_BACKGROUND" value="c0d8f0" />
@@ -91,7 +91,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="262626" />
-                <option name="BACKGROUND" value="e8e1d7" />
+                <option name="BACKGROUND" value="EFEDEB" />
             </value>
         </option>
 
@@ -147,7 +147,7 @@
         <!-- Identifiers & Variables -->
         <option name="DEFAULT_IDENTIFIER">
             <value>
-                <option name="BACKGROUND" value="e8e1d7" />
+                <option name="BACKGROUND" value="EFEDEB" />
                 <option name="FOREGROUND" />
             </value>
         </option>
